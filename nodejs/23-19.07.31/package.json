@@ -1,0 +1,14 @@
+{
+  "name": "morse-code-converter",
+  "version": "1.0.0",
+  "description": "Converts morse code to text and vice versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "morse"
+  ],
+  "author": "Alcha",
+  "license": "MIT"
+}
